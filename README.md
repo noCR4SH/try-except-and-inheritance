@@ -7,7 +7,7 @@ This is a simple project to demonstrate try-except and Class Inheritance in Pyth
 To clone the project and run it locally, use the following command:
 
 ```bash
-git clone https://github.com/noCR4SH/basic-interfaces.git
+git clone https://github.com/noCR4SH/try-except-and-inheritance.git
 ```
 
 ## Running the code

@@ -10,7 +10,7 @@ while True:
         print(f"Program failed! Reason: {e}")
         sys.exit(1)
     else:
-        print("This works fine!")
+        print("This works fine without exception!")
         break
     finally:
         print("This works no matter what!")
